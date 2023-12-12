@@ -7,71 +7,35 @@ author_profile: true
 
 ## Academic Activity
 
-* Associate Editor of [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation) (IF:16.497, JCR Q1)
-* Program Chair of [2021 5th International Conference on Computer Science and Artificial Intelligence](http://csai.org/index.html)
-* Editorial Memeber of [Memetic Computing](https://www.springer.com/journal/12293) (IF:3.577, JCR Q1)
-* Chair of IEEE Symposium 2022 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2022)
-* Chair of IEEE Symposium 2021 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2021)
-* Guest Editor:special issue of Evolutionary Neural Architecture Search and Applications, IEEE Computational Intelligence Magazine, 2020
-* Senior Program Committee of IJCAI2021
-* Chair of IEEE Symposium 2020 on Evolutionary Neural Architecture Search and Applications (IEEE ENASA2020)
-* Founding Chair of the IEEE CIS Task-force on “Evolutionary Deep Learning and Applications”
-* IEEE CIS Graduate Student Research Grants Committee Member (leading the direction of Evolutionary Systems)
-* Guest Editor: Special Issue on Evolutionary Feature Learning in Image and Pattern Recogintion, Feature Reduction and Learning, Applied Soft Computing (Journal), Springer, 2017
-* Leading Organizer of Special Session “Evolutionary Deep Learning and Applications” on CEC2019
-* Leading Organizer of “The 1st Workshop on Evolutionary Deep Learning”
-* Session Chair of “Discrete and Combinatorial Optimization” in CEC2018
-* Session Chair of “Neural Networks” in AI2018
-* Tutorial Chair of “Machine Learning in Uncertain Environments” in AI2018
-* Local organization commitee member of AI2018 and CEC2019
-* Member of IEEE and IEEE Computational Intelligence Society
-* Member of IEEE CIS Task-force on “Evolutionary Computer Vision and Image Processing”
-* Reviewer of National Nature Science Foundation of China(2019)
++ Co-Editor-in-Chief, Control Engineering of China, 2018
++ Associate editor, Soft Computing,2016
++ Senior Member, IEEE, 2014.05-now
++ Councilor of Chinese Association of Automation (CAA), 2013.12-now.
++ Member and Secretary of Technical Committee of Process Control of CAA, 2012.4- 2018.12.
++ Member of National Organizing Committee of the 5th IFAC Workshop on Mining, Mineral and Metal Processing, Shanghai, China, 23-25 August, 2018
++ Chair of Program Committee of the 29th Chinese Process Control Conference, Shenyang, China, 27-29 July, 2018.
++ Co-Chair of National Organizing Committee of the 10th IFAC Symposium on Advanced Control of Chemical Processes Shenyang, China, 25-27 July, 2018
++ Co-chair of Program Committee of the 11th World Congress on Intelligent Control and Automation, Shenyang, China, 29 June – 4 July, 2014.
++ Member of Technical Program Committee of the 2nd IEEE Conference on Industrial Electronics and Application (ICIEA 2007), Harbin, China on 23-25 May 2007.
++ Member of Technical Program Committee of the 26th Chinese Process Control Conference (CPCC 2015), Nanchang, China on 31 July-2 August 2015.
++ Member of Technical Program Committee of the 25th Chinese Process Control Conference (CPCC 2014), Dalian, China on 9-11 August 2014.
++ Member of Technical Program Committee of the 24th Chinese Process Control Conference (CPCC 2013), Hohhot, Inner Mongolia, China on 2-5 August 2013.
 
 ## Journal Reviewers
-* IEEE Transactions on Evolutionary Computation
-* IEEE Transactions on Cybernetics
-* IEEE Transactions on Emergent Topics in Computational Intelligence
-* IEEE Transactions on Cognitive and Developmental Systems
-* IEEE Transactions on Neural Networks and Learning System
-* IEEE Transactions on Games
-* IEEE Transactions on Industrial Informatics
-* IEEE Transactions on Systems, Man and Cybernetics: Systems
-* IEEE Computational Intelligence Magazine
-* IEEE Journal of Biomedical and Health Informatics
-* Evolutionary Computation
-* Image and Vision Computing
-* Applied Soft Computing
-* Neural Computing and Applications
-* Natural Computing
-* Neural Processing Letters
-* IET Computer Vision
-* Swarm and Evolutionary Computation
-* International Journal of Systems Science: Operations & Logistics
-* IEEE Access
-
-## Conference Reviewers
-* ACM TURC Conference on Artificial Intelligence and Security 2019
-* Thirty-Third AAAI Conference on Artificial Intelligence (AAAI2019)
-* The 2018 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2018)
-* The 31st Australasian Joint Conference on Artificial Intelligence (AI2018)
-* 2017 and 2018 IEEE Congress on Evolutionary Computation (CEC2017, CEC2018)
-* 2016 IEEE International Conference on Tools for Artificial Intelligence (IEEE ICTAI 2016)
-* IEEE International Conference on Cybernetics and Intelligent Systems and IEEE International Conference on Robotics, Automation and Mechatronics (IEEE CIS & RAM 2015)
-* 2013 IEEE International Conference on Information Systems and Technologies (IEEE ICIST 2013)
-
-## Program Committee
-* The 30th International Joint Conference on Artificial Intelligence (IJCAI2020)
-* The 35rd AAAI Conference on Artificial Intelligence (AAAI2021)
-* The 2020 Genetic and Evolutionary Computation Conference (GECCO 2020)
-* The 34rd AAAI Conference on Artificial Intelligence (AAAI2020)
-* 2020 IEEE Symposium Series on Computational Intelligence
-* 2019 IEEE Symposium Series on Computational Intelligence
-* The 32st Australasian Joint Conference on Artificial Intelligence (AI2019)
-* The 2019 Genetic and Evolutionary Computation Conference (GECCO 2019)
-* The 33rd AAAI Conference on Artificial Intelligence (AAAI2019)
-* The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI2018)
-* The 31st Australasian Joint Conference on Artificial Intelligence (AI2018)
-* The 11th International Conference on Simulated Evolution and Learning (SEAL2017)
-* The third International Conference of Young Computer Scientists, Engineers and Educators
-* The 10th International Conference on Advanced Computational Intelligence
++ IEEE Transactions on Evolutionary Computation
++ IEEE Transactions on Cybernetics
++ IEEE Transactions on Emerging Topics in Computational Intelligence
++ IEEE Transactions on Systems Man Cybernetics: Systems
++ Automatica
++ IEEE Transactions on Neural Networks
++ IEEE Transactions on Automation Science and Engineering
++ Information Science
++ International Journal of Systems Science
++ Journal of Intelligent Manufacturing
++ Proc of the ImechE, Part I: Journal of Systems and Control Engineering
++ Optimal Control: Methods and Application
++ Computers & Electrical Engineering
++ Control Engineering of China
++ Acta Automatica Sinica
++ Journal of Control Theory and Application
++ Conference of IFAC, ACC, CDC, etc.
