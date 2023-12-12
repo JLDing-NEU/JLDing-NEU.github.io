@@ -5,10 +5,10 @@ permalink: /supervision/
 author_profile: true
 ---
 
-# 2016
+2016
 ---
 
-## Graduate Students
+### Graduate Students
 
 + Cuie Yang, PhD Student, "Evolutionary Transfer Optimization"
 
