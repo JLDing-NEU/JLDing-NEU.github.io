@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-+ Professor (jlding@mail.neu.edu.cn)
++ Professor
+
++ Email: jlding@mail.neu.edu.cn
 
 + Director of the State Key Laboratory of Synthetical Automation for Process Industries
   
