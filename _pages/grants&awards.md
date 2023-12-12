@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Grants & Awards"
 permalink: /grants&awards/
 author_profile: true
