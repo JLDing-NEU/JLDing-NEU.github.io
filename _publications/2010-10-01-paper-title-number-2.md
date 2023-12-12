@@ -1,9 +1,8 @@
 ---
 title: "Paper Title Number 2"
-
 ---
 
-C Yang, Y Cheung, J Ding, KC Tan, Concept Drift-tolerant Transfer Learning in Dynamic Environments, IEEE Transactions on Neural Networks and Learning Systems, 2022, 33 (8), 3857-3871
+1. C Yang, Y Cheung, J Ding, KC Tan, Concept Drift-tolerant Transfer Learning in Dynamic Environments, IEEE Transactions on Neural Networks and Learning Systems, 2022, 33 (8), 3857-3871
 
 This paper is about the number 2. The number 3 is left for future work.
 
