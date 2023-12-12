@@ -4,7 +4,7 @@ permalink: /grants&awards/
 author_profile: true
 ---
 
-## Grants (As PI)
+## Grants
 + National Key Fundamental Research Program, “Integrated Optimization Software for Decision Making and Control of Mineral Processing Processes for Green Production with "Dual Carbon" Targets” (2022.11-2025.10, funding 20 million, reference no. 2022YFB3304700), PI
 + National Key Fundamental Research Program, “Multi-objective/multi-task collaboration intelligent workshop real-time regulation and operation optimization tool software and platform” (2019.5-2022.4, funding reference 3800 thousand, no. 2018YFB1701104), PI
 + National Nature Science Fund, “Intelligent Optimization and Regulation Mechanisms for Substance Transformation and Manufacturing Processes” (2020.01-2024.12, funding 16 million, reference no. 61988101), Co-I
