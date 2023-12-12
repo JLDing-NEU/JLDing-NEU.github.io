@@ -1,6 +1,6 @@
 ---
-title: "First Prize in Natural Science of Liaoning Province, 2023"
-excerpt: "Theory and Method of Intelligent Optimization for Complex Dynamic Systems"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
