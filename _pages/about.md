@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prof. Jinling Ding"
+title: "Prof. Jinliang Ding (丁进良教授)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
