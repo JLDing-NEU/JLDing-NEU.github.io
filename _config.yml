@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Jinliang Ding (丁进良) / Personal Homepage"
+title                    : "Jinliang Ding / Professor"
 title_separator          : "-"
 name                     : &name "Jinliang Ding"
-description              : &description "Professor at Northeastern University"
+description              : &description "Professor, Northeastern University"
 url                      : https://jlding-neu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JLDing-NEU/jlding-neu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinliang Ding"
   avatar           : "jlding.jpg"
-  bio              : "Professor at Northeastern University"
+  bio              : "Professor, Northeastern University"
   location         : "Shenyang, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
