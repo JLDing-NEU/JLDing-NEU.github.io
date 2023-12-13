@@ -46,7 +46,7 @@ author_profile: true
 + Excellent Talents of Universities Liaoning Province, 2012
 + Teaching Awards by Zhaojin Corporation, Northeastern University, 2012
 
-## Chinese Patents (As first authorship)
+## Chinese Patents
 + Decision-making method of comprehensive alumina production indexes based on multi-scale deep convolutional network, US Patent US 11,487,962 B2, 	2022
 + Aluminum oxide production operation optimization system and method based on cloud-edge collaboration, US Patent App. 17/625,690, 2022
 + A Prediction Approach and System of Production Rate for Hematite Ore Beneficiation Process. Patent Application No. 201410492225.3
@@ -59,7 +59,7 @@ author_profile: true
 + Intelligent optimizing setting approach for roasting process of shaft furnace, Patent No. ZL 200510047442.2
 + CBR based optimal setting approach for grinding process, Patent No. ZL200410050750.6
 
-## US Patens (All in process)
+## US Patens
 + Visualized time sequence pattern matching method for data visualization analysis based on Hough transformation, US Patent 11,328,502 B2,2022
 + Multi-scale data acquiring and processing device and method for aluminum oxide production process, US Patent 11,487,272 B2,2022
 + Cloud-edge collaboration forecasting system and method for aluminum oxide production indexes, US Patent 17/597,189,2022  
