@@ -8,7 +8,8 @@ author_profile: true
 ## Academic Activity
 
 + Co-Editor-in-Chief, Control Engineering of China, 2018
-+ Associate editor, Soft Computing,2016
++ Associate editor, IEEE Transactions on Evolutionary Computation (TEVC), 2024
++ Associate editor, Soft Computing, 2016
 + Senior Member, IEEE, 2014.05-now
 + Councilor of Chinese Association of Automation (CAA), 2013.12-now.
 + Member and Secretary of Technical Committee of Process Control of CAA, 2012.4- 2018.12.
