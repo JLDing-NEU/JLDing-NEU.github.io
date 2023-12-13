@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 + Professor
-+ Email: jlding@mail.neu.edu.cn
 + Associate Director of the State Key Laboratory of Synthetical Automation for Process Industries
++ Email: jlding@mail.neu.edu.cn
 + Northeastern University, Shenyang, China
 
 Research Interests
