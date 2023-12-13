@@ -22,8 +22,7 @@ author_profile: true
 + Member of Technical Program Committee of the 25th Chinese Process Control Conference (CPCC 2014), Dalian, China on 9-11 August 2014.
 + Member of Technical Program Committee of the 24th Chinese Process Control Conference (CPCC 2013), Hohhot, Inner Mongolia, China on 2-5 August 2013.
 
-## Journal Reviewers
-+ IEEE Transactions on Evolutionary Computation
+## Reviewers
 + IEEE Transactions on Cybernetics
 + IEEE Transactions on Emerging Topics in Computational Intelligence
 + IEEE Transactions on Systems Man Cybernetics: Systems
