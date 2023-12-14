@@ -8,14 +8,22 @@ author_profile: true
 
 Selected journal papers
 ---
-1. J Chen, P Song, C Zhao, J Ding, Spatiotemporal Multiscale Correlation Embedding With Process Variable Reorder for Industrial Soft Sensing, IEEE Transactions on Instrumentation and Measurement, 72, 2521410, 2023.
-2. J Chen, C, Zhao, J Ding, A Flexible Probabilistic Framework With Concurrent Analysis of Continuous and Categorical Data for Industrial Fault Detection and Diagnosis, IEEE Transactions on Industrial Informatics, 2023, 19(10), 10578-10590.
-3. Y Liu, J Liu, J Ding, S Yang, Y Jin, A Surrogate-Assisted Differential Evolution with Knowledge Transfer for Expensive Incremental Optimization Problems, IEEE Transactions on Evolutionary Computation, 2023.
-4. C Tian, P Song, C Zhao, J Ding, Structure Feature Extraction for Hierarchical Alarm Flood Classification and Alarm Prediction, IEEE Transactions on Automation Science and Engineering, 2023.
-5. K Gao, C Yang, J Ding, K C Tan, T Chai, Distributed Knowledge Transfer for Evolutionary Multitask Multimodal Optimization, IEEE Transactions on Evolutionary Computation, 2023.
-6. P Song, C Zhao, J Ding, S Zhao, Multimodal Decoupled Representation With Compatibility Learning for Explicit Nonstationary Process Monitoring, IEEE Transactions on Industrial Electronics, 2023.
-7. Y Fu, J Ding, X Xu, Low-Rank Multimanifold Embedding Learning for Multimode Process Monitoring, IEEE Transactions on Industrial Informatics, 2023.
-8. Y Chen, J Ding, Q Chen, A Reinforcement Learning Based Large-Scale Refinery Production Scheduling Algorithm, IEEE Transactions on Automation Science and Engineering, 2023.
+1. Liu Y, Liu J, Ding J, et al. A surrogate-assisted differential evolution with knowledge transfer for expensive incremental optimization problems. IEEE Transactions on Evolutionary Computation, 2023. DOI: 10.1109/TEVC.2023.3291697
+2. Gao K, Yang C, Ding J, et al. Distributed Knowledge Transfer for Evolutionary Multitask Multimodal Optimization. IEEE Transactions on Evolutionary Computation, 2023. DOI: 10.1109/TEVC.2023.3291874
+3. Q Chen, J Ding, G Yen, S Yang, Multi-Population Evolution based Dynamic Constrained Multiobjective Optimization under Diverse Changing Environments, IEEE Transactions on Evolutionary Computation, 2023. DOI: 10.1109/TEVC.2023.3241762
+4. Z He, G Yen, J Ding, Knee Based Decision Making and Visualization in Many-Objective Optimization, IEEE Transactions on Evolutionary Computation, 2021, 25 (2), 292-306
+5. Q Chen, J Ding, S Yang, T Chai, A Novel Evolutionary Algorithm for Dynamic Constrained Multiobjective Optimization Problems, IEEE Transactions on Evolutionary Computation, 2020, 24 (4), 792 – 806
+6. C Yang, J Ding, Y Jin, T Chai, Off-line Data-driven Multi-objective Optimization: Knowledge Transfer between Surrogates and Generation of Final Solutions, IEEE Transactions on Evolutionary Computation, 2020, 24 (3), 409-423
+7. J Ding, C Yang, Y Jin, T Chai, Generalized Multi-tasking for Evolutionary Optimization of Expensive Problems, IEEE Transactions on Evolutionary Computation, 2019, 23 (1): 44 - 58.
+8. C Sun, Y Jin, R Cheng, J Ding, J Zeng, Surrogate-assisted Cooperative Swarm Optimization of High-dimensional Expensive Problems, IEEE Transactions on Evolutionary Computation, 2017, 21(4): 644 – 660.
+9. C Yang, Y Cheung, J Ding, KC Tan, Concept Drift-tolerant Transfer Learning in Dynamic Environments, IEEE Transactions on Neural Networks and Learning Systems, 2022, 33 (8), 3857-3871
+10. P Song, C Zhao, B Huang, J Ding, Explicit Representation and Customized Fault Isolation Framework for Learning Temporal and Spatial Dependencies in Industrial Processes, IEEE Transactions on Neural Networks and Learning Systems, 2023
+11. Li C, Ding J, Lewis F L, et al. Model-Free Q-Learning for the Tracking Problem of Linear Discrete-Time Systems[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022.
+12. Yang C, Cheung Y M, Ding J, et al. Contrastive learning assisted-alignment for partial domain adaptation[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022.
+13. Lu J, Ding J, Liu C, et al. Hierarchical-Bayesian-based sparse stochastic configuration networks for construction of prediction intervals[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021, 33(8): 3560-3571.
+14. Li J, Ding J, Chai T, et al. Adaptive interleaved reinforcement learning: Robust stability of affine nonlinear systems with unknown uncertainty[J]. IEEE Transactions on Neural Networks and Learning Systems, 2020, 33(1): 270-280.
+15. Zheng N, Ding J, Chai T. DMGAN: Adversarial learning-based decision making for human-level plant-wide operation of process industries under uncertainties[J]. IEEE Transactions on Neural Networks and Learning Systems, 2020, 32(3): 985-998.
+16. Lu J, Ding J, Dai X, et al. Ensemble stochastic configuration networks for estimating prediction intervals: A simultaneous robust training algorithm and its application[J]. IEEE transactions on neural networks and learning systems, 2020, 31(12): 5426-5440.
 
 Selected conference papers
 ---
